@@ -1,7 +1,7 @@
 # Hadoop (Big Data Ecosystem)
 
 #### Big Data Ecosytem:
-*OBS: Single Node for Dev
+*OBS: Single Node for Dev environment
 
    *  No Windows:
       *  Criar na raiz do seu drive o diretório docker
