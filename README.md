@@ -1,4 +1,4 @@
-# Hadoop (Big Data Ecosystem)
+# Hadoop
 
 #### Big Data Ecosytem:
 *OBS: Single Node for Dev environment
