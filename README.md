@@ -13,3 +13,5 @@
 
 #### Em um terminal/DOS, dentro diretório docker, realizar o clone do projeto no github
           git clone https://github.com/fabiogjardim/bigdata_docker.git
+          
+          teste
