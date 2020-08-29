@@ -18,6 +18,7 @@
   * HBASE
   
     --start-hbase.sh
+    
     --hbase shell
 
   * HIVE
